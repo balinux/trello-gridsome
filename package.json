@@ -1,0 +1,15 @@
+{
+  "name": "gridsome-trello",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "axios": "^0.21.1",
+    "gridsome": "^0.7.23"
+  }
+}
